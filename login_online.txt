@@ -1,4 +1,0 @@
-
-
-
-pyinstaller --onefile --noconsole --add-data "free-icon-font-add-3914248.png;free-icon-font-align-justify-3917034.png;free-icon-font-arrow-right-3916800.png;free-icon-font-check-3917084.png;free-icon-font-download-3917330.png;free-icon-font-edit-3917361.png;free-icon-font-exit-3917349.png;free-icon-font-info-3916699.png;free-icon-font-picture-3917317.png;free-icon-font-trash-3917242.png;free-icon-font-user-3917688.png;kdlogo.jpg;main.db" main.py
